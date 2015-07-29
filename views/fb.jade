@@ -1,6 +1,14 @@
 extends layout
 
 block content
-  script(src="javascripts/fb.js")
-  h1#fb-welcome
+  script(src="https://maps.googleapis.com/maps/api/js?v=3.exp")
+  //script(src="javascripts/fb.js")
+  #map-canvas
+  main(role="main")
   #fb-root
+    h1#fb-welcome
+    h1#fb-payments
+    h1#fb-myevents
+    h1#fb-partyevents
+
+  script(src="app.js")
