@@ -16,7 +16,7 @@
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0",
     "q": "~1.4.1",
-    "jquery": "~2.1.4",
+    "jquery": "~3.5.0",
     "backbone": "~1.2.1",
     "browserify-middleware": "~7.0.0",
     "backbone.marionette": "~2.4.2",
