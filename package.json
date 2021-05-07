@@ -20,7 +20,7 @@
     "backbone": "~1.2.1",
     "browserify-middleware": "~7.0.0",
     "backbone.marionette": "~2.4.2",
-    "underscore": "~1.8.3",
+    "underscore": "~1.13.1",
     "backbone-pouch": "~1.4.0",
     "pouchdb": "~3.6.0",
     "backbone-schema": "~0.8.0",
