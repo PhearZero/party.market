@@ -19,7 +19,7 @@
     "jquery": "~2.1.4",
     "backbone": "~1.2.1",
     "browserify-middleware": "~7.0.0",
-    "backbone.marionette": "~2.4.2",
+    "backbone.marionette": "~3.0.0",
     "underscore": "~1.8.3",
     "backbone-pouch": "~1.4.0",
     "pouchdb": "~3.6.0",
